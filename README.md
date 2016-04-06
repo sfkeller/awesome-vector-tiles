@@ -61,6 +61,7 @@ data into vector tiles that can be rendered dynamically.
 - [Kartotherian](https://github.com/kartotherian/kartotherian) Wikipedia tile server with [Tilerator](https://github.com/kartotherian/tilerator) backend tile pre-generator
 - [ArcGIS Online](http://www.esri.com/software/arcgis/arcgisonline) - Supports serving vector tiles and rendering in the mapping application powered by the ArcGIS API for JavaScript
 - [Portal for ArcGIS](http://www.esri.com/software/arcgis/arcgisserver/extensions/portal-for-arcgis) - Supports serving vector tiles and rendering in the mapping application powered by the ArcGIS API for JavaScript
+- [GeoServer](https://github.com/geoserver/geoserver/tree/master/src/community/vectortiles) - creates Vector Tiles in GeoJSON, TopoJSON, and MapBox Vector Tiles format for all the vector data formats it supports.  
 
 ## Low-level utilities
 
